@@ -1,5 +1,5 @@
 - Yuriy Churkin
-- developer @TraceAir
+- optimizing optimization
 
 <!---
 churkinyuriy/churkinyuriy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
